@@ -84,3 +84,7 @@ Each row in the dataset represents a user session. Key columns include:
 ---
 
 ## 🧠 What I Demonstrated
+- How to run and interpret a full A/B test from hypothesis to conclusion
+- Application of core statistical concepts including p-values, confidence intervals, and effect sizes
+- Use of Python libraries to visualize and compute metrics for real-world experiments
+- Distinction between statistical and **practical** significance in decision-making
